@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 30 16:53:27 2019
 
-@author: YASH SAINI
-"""
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense
